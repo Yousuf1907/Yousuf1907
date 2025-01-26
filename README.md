@@ -2,9 +2,9 @@
 <!-- <h3 align="center">A Data Scientist from Pakistan</h3> -->
 <!-- <img align="right"> width="400"<img src="https://i.gifer.com/74YE.gif" alt="yousuf1907" /> -->
 
-- 💻I help researchers build robust Machine & Deep Learning models, along with Business Intelligence solutions 
+- 💻I build Machine & Deep Learning models, along with Business Intelligence solutions 
 - 🌌 Currently researching applications of machine learning in astronomical data and space sciences
-- 📚 Currently exploring my knowledge in Computer Vison and NLP.
+- 📚 Currently exploring my knowledge in Computer Vision and NLP.
 - 🔗Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-yousuf-soharwardi/)
 - 🌐 Personal website coming soon – stay tuned!
 
